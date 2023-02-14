@@ -37,6 +37,3 @@ lerna-debug.log*
 
 # Secret file
 .env
-=======
-!.vscode/extensions.json
->>>>>>> 26a6265 (Auth completo)
